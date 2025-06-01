@@ -18,3 +18,9 @@ A simple drag-and-drop-style form builder built using React and Tailwind CSS.
 2. ## Live Demo
 
 Check out the live version of this project here: [https://rad-liger-5f038d.netlify.app](https://rad-liger-5f038d.netlify.app)
+
+3. ## Screenshots
+
+Here’s a preview of the Form Builder App interface:
+
+![Form Builder UI](https://prnt.sc/_Q4nJWhrrpZy)
